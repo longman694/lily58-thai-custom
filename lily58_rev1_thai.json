@@ -3,7 +3,7 @@
   "notes": "Lily58 configuration optimized for Thai language",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "lily58/rev1",
-  "keymap": "lily58_rev1_lily58_rev1_thai",
+  "keymap": "lily58_rev1_thai",
   "layout": "LAYOUT",
   "layers": [
     [
@@ -64,7 +64,7 @@
       "KC_ENT",
       "MO(2)",
       "KC_BSPC",
-      "TG(4)"
+      "KC_DEL"
     ],
     [
       "KC_GRV",
@@ -117,14 +117,14 @@
       "KC_PDOT",
       "KC_PPLS",
       "KC_NO",
-      "KC_NO",
+      "KC_TRNS",
       "KC_NO",
       "KC_NO",
       "KC_SPC",
       "KC_PENT",
       "MO(3)",
       "KC_DEL",
-      "KC_NO"
+      "TG(4)"
     ],
     [
       "KC_F1",
@@ -297,14 +297,14 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_RSFT",
-      "KC_NO",
-      "KC_NO",
+      "MO(1)",
+      "KC_LCTL",
       "MO(0)",
       "KC_SPC",
       "KC_ENT",
       "KC_NO",
       "KC_BSPC",
-      "KC_TRNS"
+      "KC_NO"
     ]
   ],
   "author": "Napat"
