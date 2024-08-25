@@ -33,6 +33,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define QUICK_TAP_TERM 0
 #define TAPPING_TERM 100
 
+/* Force disable SPLIT_USB_DETECT */
+#undef SPLIT_USB_DETECT
+
 #undef RGBLIGHT_LED_COUNT
 //#define RGBLIGHT_EFFECT_BREATHING
 //#define RGBLIGHT_EFFECT_RAINBOW_MOOD
