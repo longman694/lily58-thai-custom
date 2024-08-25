@@ -1,13 +1,8 @@
-QMK config for lily58 keyboard optimized for the Thai language.
+This repository hosts a QMK configuration tailored for the Lily58 keyboard, enhancing its compatibility with the Thai language. 
 
-For some languages, a small keyboard layout like 40% keyboard is not big enough to map all necessary keys 
-(or needs to map them to another layer which is not comfortable to use or will make some keys harder to find).
+Recognizing that compact layouts such as 40% keyboards lack the space to accommodate all essential Thai characters, this project advocates for a minimum of 4 rows and 12 columns. Consequently, [the Lily58](https://github.com/kata0510/Lily58), with its split design, emerges as an ideal choice. 
 
-So, the smallest keyboard to use for these languages has to have at least 4 rows and 12 columns. 
-That is why 60% keyboards or [Lily58](https://github.com/kata0510/Lily58) for split keyboards are good candidates. 
-
-This project focuses on modifying the keymapping of the original Lily58 like putting 'ข' and 'ช' to the upper right keys
-and put 'ฃ/ฅ' to the second layer under the 'ช' key. 
+To improve Thai language compatibility, the keymapping has been positioning 'ข' and 'ช' characters on the accessible upper right keys, while the less used 'ฃ/ฅ' are nested within a secondary layer beneath the 'ช' key.
 
 # Feature
 
