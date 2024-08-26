@@ -60,11 +60,11 @@
       "KC_LALT",
       "KC_LGUI",
       "MO(1)",
-      "KC_SPC",
-      "KC_ENT",
+      "LCTL_T(KC_SPC)",
+      "LSFT_T(KC_ENT)",
       "MO(2)",
       "KC_BSPC",
-      "KC_DEL"
+      "KC_APP"
     ],
     [
       "KC_GRV",
@@ -121,7 +121,7 @@
       "KC_NO",
       "KC_NO",
       "KC_SPC",
-      "KC_PENT",
+      "LSFT_T(KC_ENT)",
       "MO(3)",
       "KC_BSPC",
       "TO(4)"
@@ -236,7 +236,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "KC_RSFT",
       "KC_NO",
       "KC_NO",
       "KC_NO",

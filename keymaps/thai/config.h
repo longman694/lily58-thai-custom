@@ -25,13 +25,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MASTER_LEFT
 // #define MASTER_RIGHT
 #define EE_HANDS
+#undef SPLIT_HAND_PIN
+#undef SPLIT_HAND_MATRIX_GRID
 #define FORCE_NKRO
 #define NO_USB_STARTUP_CHECK
 
 #define DYNAMIC_KEYMAP_LAYER_COUNT 6
 
-#define QUICK_TAP_TERM 0
-#define TAPPING_TERM 100
+#define QUICK_TAP_TERM 150
+#define TAPPING_TERM 250
 
 /* Force disable SPLIT_USB_DETECT */
 #undef SPLIT_USB_DETECT
