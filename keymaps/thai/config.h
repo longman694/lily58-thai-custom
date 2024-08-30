@@ -33,7 +33,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DYNAMIC_KEYMAP_LAYER_COUNT 6
 
 #define QUICK_TAP_TERM 150
-#define TAPPING_TERM 250
+#define TAPPING_TERM 200
 
 /* Force disable SPLIT_USB_DETECT */
 #undef SPLIT_USB_DETECT
