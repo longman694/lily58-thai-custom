@@ -33,14 +33,14 @@
       "KC_EQL",
       "KC_LCTL",
       "KC_A",
-      "KC_S",
-      "KC_D",
-      "KC_F",
+      "LALT_T(KC_S)",
+      "LCTL_T(KC_D)",
+      "LSFT_T(KC_F)",
       "KC_G",
       "KC_H",
-      "KC_J",
-      "KC_K",
-      "KC_L",
+      "RSFT_T(KC_J)",
+      "RCTL_T(KC_K)",
+      "RALT_T(KC_L)",
       "KC_SCLN",
       "KC_QUOT",
       "KC_LSFT",
@@ -63,7 +63,7 @@
       "LCTL_T(KC_SPC)",
       "LSFT_T(KC_ENT)",
       "MO(4)",
-      "RALT_T(KC_BSPC)",
+      "KC_BSPC",
       "KC_APP"
     ],
     [
@@ -183,7 +183,7 @@
       "LCTL_T(KC_SPC)",
       "LSFT_T(KC_ENT)",
       "MO(4)",
-      "RALT_T(KC_BSPC)",
+      "KC_BSPC",
       "KC_APP"
     ],
     [
@@ -233,7 +233,7 @@
       "KC_COLN",
       "KC_BSLS",
       "KC_P0",
-      "KC_PEQL",
+      "KC_EQL",
       "KC_PDOT",
       "KC_PPLS",
       "KC_RSFT",
@@ -243,7 +243,7 @@
       "LCTL_T(KC_SPC)",
       "LSFT_T(KC_ENT)",
       "MO(5)",
-      "RALT_T(KC_BSPC)",
+      "KC_BSPC",
       "KC_NO"
     ],
     [
