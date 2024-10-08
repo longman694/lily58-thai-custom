@@ -36,8 +36,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define QUICK_TAP_TERM 150
 #define TAPPING_TERM 200
 
-/* Force disable SPLIT_USB_DETECT */
-#undef SPLIT_USB_DETECT
+// #define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
+#define DOUBLE_TAP_SHIFT_TURNS_ON_CAPS_WORD
+
+#define SPLIT_USB_DETECT
+#define SPLIT_WATCHDOG_ENABLE
+#define SPLIT_WATCHDOG_TIMEOUT 3000
 
 #undef RGBLIGHT_LED_COUNT
 //#define RGBLIGHT_EFFECT_BREATHING
